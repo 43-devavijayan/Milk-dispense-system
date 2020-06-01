@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=ai
+comment0.target=void\ enqueue(q)
+comment1.params=ai
+comment1.target=void\ enq(q)
+comment2.params=
+comment2.target=q\ dequeue()
+comment3.params=
+comment3.target=q\ deq()
+comment4.params=ai
+comment4.target=double\ calc(q)
+comment5.params=d2\ h\ m\ s
+comment5.target=double\ add(double,\ int,\ int,\ int)
+numComments=6
